@@ -1,0 +1,140 @@
+﻿person_id,name,subteam,active,is_pi
+1,Drew Higgins,Discover,TRUE,TRUE
+2,Curtis Berlinguette,Discover,TRUE,TRUE
+3,Yimin Wu,Discover,TRUE,TRUE
+4,Chandra Veer Singh,Discover,TRUE,TRUE
+5,Dwight Seferos,Discover,TRUE,TRUE
+6,Gisele Azimi,Discover,TRUE,TRUE
+7,Aimy Bazylak,Discover,TRUE,TRUE
+8,Viola Birss,Discover,TRUE,TRUE
+9,Ted Sargent,Discover,TRUE,TRUE
+10,David Sinton,Discover,TRUE,TRUE
+11,Shayan Angizi,Discover,TRUE,FALSE
+12,Robert Ngunjuri,Discover,TRUE,FALSE
+13,Reem Jalab,Discover,TRUE,FALSE
+14,Mengnan Zhu,Discover,TRUE,FALSE
+15,Mahtab Masouminia,Discover,TRUE,FALSE
+16,Navid Noor,Discover,TRUE,FALSE
+17,Zahra Teimouri,Discover,TRUE,FALSE
+18,Chengqian Wu,Discover,TRUE,FALSE
+19,Fatemeh Arabyarmohammadi,Discover,TRUE,FALSE
+20,Raylene Mitchell,Discover,TRUE,FALSE
+21,Qian Sun,Discover,TRUE,FALSE
+22,Goutham Rangarajan,Discover,TRUE,FALSE
+23,Zhizheng Wu,Discover,TRUE,FALSE
+24,Yangbo Ma,Discover,TRUE,FALSE
+25,Sara Kopilovic,Discover,TRUE,FALSE
+26,Meng Zhang,Discover,TRUE,FALSE
+27,Wei Wei,Discover,TRUE,FALSE
+28,Sharon Otieno,Discover,TRUE,FALSE
+29,Alicia Battaglia,Discover,TRUE,FALSE
+30,Fatemeh Sadat Mousavizadeh Mojarad,Discover,TRUE,FALSE
+31,Sara Bouzidi,Discover,TRUE,FALSE
+32,Hannah Cameron,Discover,TRUE,FALSE
+33,Christine (Jialang) Li,Discover,TRUE,FALSE
+34,Diego Van Der Biest,Discover,TRUE,FALSE
+35,Dr. Ahmed Ali,Discover,TRUE,FALSE
+36,Dr. Amanda Ndubuisi,Discover,TRUE,FALSE
+37,Dr. Xue Yao,Discover,TRUE,FALSE
+38,Linke Huang,Discover,TRUE,FALSE
+39,Ebad Noman,Discover,TRUE,FALSE
+40,Jacob Przywolski,Discover,TRUE,FALSE
+41,Murat Kenez,Discover,TRUE,FALSE
+42,Dr. Zahra Dijvejin,Discover,TRUE,FALSE
+43,Gaopeng Jiang,Discover,TRUE,FALSE
+44,Joseph Chiong,Discover,TRUE,FALSE
+45,Molood Masoom Nataj,Discover,TRUE,FALSE
+46,Roham Dorakhan,Discover,TRUE,FALSE
+47,Dr. Lizhou Fan,Discover,TRUE,FALSE
+48,Hafiz Ghulam Abbas,Discover,TRUE,FALSE
+49,Kate Neville,Direct,TRUE,TRUE
+50,David Silas,Direct,TRUE,TRUE
+51,Michael Ross,Direct,TRUE,TRUE
+52,Tracey Galloway,Direct,TRUE,TRUE
+53,Laurel Besco,Direct,TRUE,TRUE
+54,Cheryl Teelucksingh,Direct,TRUE,TRUE
+55,Ryan Bullock,Direct,TRUE,TRUE
+56,Melanie Zurba,Direct,TRUE,TRUE
+57,Christina Hoicka,Direct,TRUE,TRUE
+58,Alison Perrin,Direct,TRUE,TRUE
+59,Shardul Tiwari,Direct,TRUE,FALSE
+60,Emily MacCallum,Direct,TRUE,FALSE
+61,SiLang Huang,Direct,TRUE,FALSE
+62,Asiyah Choudry,Direct,TRUE,FALSE
+63,Tabitha Elisha Evans,Direct,TRUE,FALSE
+64,Shamim Anowar,Direct,TRUE,FALSE
+65,Bex Mertz-Shea,Direct,TRUE,FALSE
+66,Maeve Rothlin,Direct,TRUE,FALSE
+67,Suzanne Chew,Direct,TRUE,FALSE
+68,Leela McKinnon,Direct,TRUE,FALSE
+69,Iva Seto,Direct,TRUE,FALSE
+70,Cindy Lee,Direct,TRUE,FALSE
+71,Sze Chai (Christy) Chiu,Direct,TRUE,FALSE
+72,Connor Isaac,Direct,TRUE,FALSE
+73,Annie Cheng,Direct,TRUE,FALSE
+74,Lesley Yang,Direct,TRUE,FALSE
+75,Ahmad Hameed,Direct,TRUE,FALSE
+76,Kenzie McCallum,Direct,TRUE,FALSE
+77,Lulwama Mulalu,Direct,TRUE,FALSE
+78,Rhea Mukerjee,Direct,TRUE,FALSE
+79,Graham MacDonald,Direct,TRUE,FALSE
+80,Douglas McKinnon,Direct,TRUE,FALSE
+81,Matthew Reesor,Direct,FALSE,FALSE
+82,Rugare Rukuni,Direct,FALSE,FALSE
+83,Steven Qiu,Direct,FALSE,FALSE
+84,Erica Kilius,Direct,FALSE,FALSE
+85,Faustine Luo,Direct,FALSE,FALSE
+86,Joe Collier,Direct,FALSE,FALSE
+87,Catherine Shi,Direct,FALSE,FALSE
+88,Dena Van De Coevering,Direct,FALSE,FALSE
+89,Rahul Parhar,Direct,FALSE,FALSE
+90,Rebecca Tough,Direct,FALSE,FALSE
+91,Caitlyn Renowden,Direct,FALSE,FALSE
+92,Sophie Roher,Direct,FALSE,FALSE
+93,Nic Jekill,Direct,FALSE,FALSE
+94,Cagla Akgul,Direct,FALSE,FALSE
+95,Xi Wang,Direct,FALSE,FALSE
+96,Sabrina Binti Shahidan,Direct,FALSE,FALSE
+97,Bryanne Lamoureux,Direct,FALSE,FALSE
+98,Jose Martini Costa,Direct,FALSE,FALSE
+99,Sarah El-Shaarawi,Direct,FALSE,FALSE
+100,Brigitte Gabrielle-Simpson,Direct,FALSE,FALSE
+101,Megan MacDonald,Direct,FALSE,FALSE
+102,Sara Chisatz,Direct,FALSE,FALSE
+103,Jianing Zhu,Direct,FALSE,FALSE
+104,Kit (Christopher) Murphy,Direct,FALSE,FALSE
+105,Anna Mackay,Direct,FALSE,FALSE
+106,Lila Asher,Direct,FALSE,FALSE
+107,Maytal Lazarovic,Direct,FALSE,FALSE
+108,Hosea Patrick,Direct,FALSE,FALSE
+109,Ali Shayesteh,Discover,FALSE,FALSE
+110,Tartela Alkayyali,Discover,FALSE,FALSE
+111,Alexandre Tugirumubano,Discover,FALSE,FALSE
+112,Amanda Brown,Discover,FALSE,FALSE
+113,Jordan Rumscheidt,Discover,FALSE,FALSE
+114,Abdulla Arham,Discover,FALSE,FALSE
+115,Jaesuk Paeng,Discover,FALSE,FALSE
+116,Dr. Harrison (Harry) Mills,Discover,FALSE,FALSE
+117,Lei Wang,Discover,FALSE,FALSE
+118,Pezhvak Moghaddasisaen,Discover,FALSE,FALSE
+119,Siyan Lu,Discover,FALSE,FALSE
+120,Dr. Zhiwen Chen,Discover,FALSE,FALSE
+121,Dr. Aida Farsi,Discover,FALSE,FALSE
+122,Genevieve Aguigwo,Discover,FALSE,FALSE
+123,Dr. Shao Ren,Discover,FALSE,FALSE
+124,Vasant Batta,Discover,FALSE,FALSE
+125,Allison Grimwood,Discover,FALSE,FALSE
+126,Dr. Alec Ji,Discover,FALSE,FALSE
+127,Aubry Williams,Discover,FALSE,FALSE
+128,Dr. Sabrina Scott,Discover,FALSE,FALSE
+129,Dr. Amir Foroozan,Discover,FALSE,FALSE
+130,Sungjin Park,Discover,FALSE,FALSE
+131,Dr. Monika Stolar,Discover,FALSE,FALSE
+132,Eric Guan,Develop,FALSE,FALSE
+133,Chris Fitzgibbon,Develop,FALSE,FALSE
+134,David Boon,Develop,TRUE,FALSE
+135,Vaidehi Pitre,Develop,TRUE,FALSE
+136,Eric Riep,Develop,TRUE,FALSE
+137,Emily Nishikawa,Develop,TRUE,FALSE
+138,Hoda Touma,Develop,TRUE,FALSE
+139,Brandon Bray,Develop,TRUE,FALSE
